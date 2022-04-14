@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/userPostsAuth/static/css/main.5089ba37.css",
+    "main.js": "/userPostsAuth/static/js/main.62c2ad9f.js",
+    "static/js/787.f47e3001.chunk.js": "/userPostsAuth/static/js/787.f47e3001.chunk.js",
+    "static/media/logo.svg": "/userPostsAuth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/userPostsAuth/index.html",
+    "main.5089ba37.css.map": "/userPostsAuth/static/css/main.5089ba37.css.map",
+    "main.62c2ad9f.js.map": "/userPostsAuth/static/js/main.62c2ad9f.js.map",
+    "787.f47e3001.chunk.js.map": "/userPostsAuth/static/js/787.f47e3001.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5089ba37.css",
+    "static/js/main.62c2ad9f.js"
+  ]
+}
