@@ -1,0 +1,45 @@
+.wrapperOut {
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  font-family: "Poppins", sans-serif;
+  background: #dfe9f5;
+}
+
+.wrapper {
+  width: 330px;
+  padding: 2rem 1rem;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+.wrapper form input {
+  width: 85%;
+  outline: none;
+  border: none;
+  background: #dfe9f5;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.wrapper button {
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  padding: 8px 0;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  width: 85%;
+  background: tomato;
+  color: #fff;
+  cursor: pointer;
+}
+.wrapper button:hover {
+  background: rgba(122, 30, 30, 0.767);
+}
+
+/*# sourceMappingURL=Login.css.map */
