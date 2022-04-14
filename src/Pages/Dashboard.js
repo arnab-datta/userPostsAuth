@@ -16,8 +16,8 @@ function Dashboard(props){
     
     let navigate = useNavigate();
 
-    // const SESSION_TIMEOUT = 120000; // 2 MINUTES
-    const SESSION_TIMEOUT = 10000; // 
+    const SESSION_TIMEOUT = 120000; // 2 MINUTES
+    // const SESSION_TIMEOUT = 10000; // 
     setTimeout(() => {
         // alert('Your Session has expired.')
         localStorage.clear();
